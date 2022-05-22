@@ -1,0 +1,19 @@
+{
+  "name": "web_aut_antra_kacena",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akacen/web_aut_antra_kacena.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akacen/web_aut_antra_kacena/issues"
+  },
+  "homepage": "https://github.com/akacen/web_aut_antra_kacena#readme"
+}

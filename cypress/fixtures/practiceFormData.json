@@ -1,0 +1,12 @@
+{
+    "firstName": "Antra",
+    "lastName": "Kacena",
+    "email": "uname@domain.com",
+    "mobile": "2123456789",
+    "dateOfBirth": "28 February,1930",
+    "subject": "Economics",
+    "hobby": "Music",
+    "fileName": "raspberries.jpg",
+    "currentAddress": "Some street 55",
+    "stateAndCity": "NCR Delhi"
+}
